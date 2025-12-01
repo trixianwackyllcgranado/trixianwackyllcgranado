@@ -1,4 +1,4 @@
-# 👤 Trixian Wackyll C. Granado
+Trixian Wackyll C. Granado
 **IT Student | Bookkeeper | Aspiring Developer**
 
 ---
