@@ -14,11 +14,6 @@ Example High School (2018 – 2022)
 ---
 
 ## 🏅 Certifications
-- **Certificate Name** – Issuer (2025)  
-  *Short description or credential ID*
-
-- **Another Certification** – Issuer (2024)  
-  *Short description*
 
 ---
 
