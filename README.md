@@ -20,10 +20,9 @@ Example High School (2018 – 2022)
 ## 🛠 Skillsets
 - HTML  
 - CSS  
-- JavaScript  
+- Java
 - SQL  
 - OBS Studio  
-- Tailwind CSS  
 - Bookkeeping  
 
 ---
