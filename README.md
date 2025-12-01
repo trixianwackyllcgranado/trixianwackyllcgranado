@@ -21,6 +21,7 @@ Example High School (2018 – 2022)
 - HTML  
 - CSS  
 - Java
+- Javascript
 - SQL  
 - OBS Studio  
 - Bookkeeping  
