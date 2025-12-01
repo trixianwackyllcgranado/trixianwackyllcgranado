@@ -31,4 +31,4 @@ Example High School (2018 – 2022)
 ## 📫 Contact
 **Email:** wackylltrixian@gmail.com  
 **Phone:** 0953-004-9848
-**Location:** Malabon City, Philippines
+**Location:** Quezon City, Philippines
