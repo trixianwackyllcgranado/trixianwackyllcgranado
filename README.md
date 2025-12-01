@@ -29,6 +29,6 @@ Example High School (2018 – 2022)
 ---
 
 ## 📫 Contact
-**Email:** yourname@example.com  
-**Phone:** 0917-XXX-XXXX  
+**Email:** wackylltrixian@gmail.com  
+**Phone:** 0953-004-9848
 **Location:** Malabon City, Philippines
