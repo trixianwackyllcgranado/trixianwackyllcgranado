@@ -1,23 +1,24 @@
-Trixian Wackyll C. Granado
+Trixian Wackyll C. Granado  
 **IT Student | Bookkeeper | Aspiring Developer**
 
 ---
 
 ## 📘 Education
 **Bachelor of Science in Information Technology**  
-New Era University (2024 – Present)  
+New Era University (2024 – Present)
 
 ---
 
 ## 🏅 Certifications
+- <a href="https://courses.cognitiveclass.ai/certificates/7d20b6e30851466b9ddc20cf3ca529d1" target="_blank">IBM Cognitive Class: SQL and Relational Databases 101</a>
 
 ---
 
 ## 🛠 Skillsets
 - HTML  
 - CSS  
-- Java
-- Javascript
+- Java  
+- JavaScript  
 - SQL  
 - OBS Studio  
 - Bookkeeping  
@@ -26,5 +27,5 @@ New Era University (2024 – Present)
 
 ## 📫 Contact
 **Email:** wackylltrixian@gmail.com  
-**Phone:** 0953-004-9848
+**Phone:** 0953-004-9848  
 **Location:** Quezon City, Philippines
