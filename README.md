@@ -11,6 +11,8 @@ New Era University (2024 – Present)
 
 ## 🏅 Certifications
 - <a href="https://courses.cognitiveclass.ai/certificates/7d20b6e30851466b9ddc20cf3ca529d1" target="_blank">IBM Cognitive Class: SQL and Relational Databases 101</a>
+- <a href="[https://courses.cognitiveclass.ai/certificates/7d20b6e30851466b9ddc20cf3ca529d1" target="_blank](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B8A9ACBE91AC97BB3BA638B892B96EF816686374880FB468FA92BFD2150FB691)">Oracle Cloud Infrastructure Foundations Associate</a>
+
 
 ---
 
